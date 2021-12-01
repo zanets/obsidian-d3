@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-d3-plugin",
+	"name": "D3 Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Support D3 code block.",
+	"author": "zanets",
+	"authorUrl": "https://github.com/zanets/obsidian-d3",
+	"isDesktopOnly": true
+}
